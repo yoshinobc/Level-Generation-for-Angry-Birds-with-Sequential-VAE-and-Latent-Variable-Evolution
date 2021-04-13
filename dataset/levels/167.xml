@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Level width ="2">
+<Camera x="0" y="2" minWidth="20" maxWidth="30">
+<Birds>
+<Bird type="BirdRed"/>
+<Bird type="BirdBlack"/>
+<Bird type="BirdRed"/>
+</Birds>
+<Slingshot x="-8" y="-2.5">
+<GameObjects>
+<Block type="RectFat" material="stone" x="1.95" y="-2.8571714166727014" rotation="0" />
+<Block type="RectFat" material="stone" x="3.0" y="-2.8571714166727014" rotation="0" />
+<Block type="RectFat" material="stone" x="4.05" y="-2.8571714166727014" rotation="0" />
+<Block type="RectBig" material="stone" x="1.635" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="ice" x="1.95" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="ice" x="2.265" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="ice" x="2.685" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="ice" x="3.0" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="stone" x="3.315" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="stone" x="3.735" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="wood" x="4.05" y="-1.6121714166727013" rotation="90" />
+<Block type="RectBig" material="wood" x="4.365" y="-1.6121714166727013" rotation="90" />
+<Block type="RectSmall" material="wood" x="1.635" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="stone" x="1.95" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="ice" x="2.265" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="stone" x="2.685" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="stone" x="3.0" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="stone" x="3.315" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="wood" x="3.735" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="wood" x="4.05" y="-0.15717141667270107" rotation="90" />
+<Block type="RectSmall" material="wood" x="4.365" y="-0.15717141667270107" rotation="90" />
+<Block type="RectFat" material="ice" x="1.95" y="0.4828285833272989" rotation="0" />
+<Block type="RectFat" material="stone" x="3.0" y="0.4828285833272989" rotation="0" />
+<Block type="RectFat" material="wood" x="4.05" y="0.4828285833272989" rotation="0" />
+<Block type="SquareTiny" material="ice" x="1.95" y="0.8078285833272989" rotation="0" />
+<Block type="SquareTiny" material="stone" x="3.0" y="0.8078285833272989" rotation="0" />
+<Block type="RectTiny" material="wood" x="4.05" y="0.8078285833272989" rotation="0" />
+<Block type="TriangleHole" material="ice" x="4.05" y="1.3278285833" rotation="0" />
+<Block type="CircleSmall" material="ice" x="3.0" y="1.1428285833" rotation="0" />
+<Pig type="BasicSmall" material="" x="1.95" y="1.1428285833272989" rotation="0" />
+<Platform type="Platform" material="" x="3.0" y="-3.3821714166727013" />
+<Platform type="Platform" material="" x="3.0" y="-4.002171416672701" />
+<Platform type="Platform" material="" x="3.0" y="-4.6221714166727015" />
+<Platform type="Platform" material="" x="3.62" y="-3.3821714166727013" />
+<Platform type="Platform" material="" x="2.38" y="-3.3821714166727013" />
+<Platform type="Platform" material="" x="3.62" y="-4.002171416672701" />
+<Platform type="Platform" material="" x="2.38" y="-4.002171416672701" />
+<Platform type="Platform" material="" x="3.62" y="-4.6221714166727015" />
+<Platform type="Platform" material="" x="2.38" y="-4.6221714166727015" />
+<Platform type="Platform" material="" x="4.165" y="-3.3821714166727013" />
+<Platform type="Platform" material="" x="1.835" y="-3.3821714166727013" />
+<Platform type="Platform" material="" x="4.165" y="-4.002171416672701" />
+<Platform type="Platform" material="" x="1.835" y="-4.002171416672701" />
+<Platform type="Platform" material="" x="4.165" y="-4.6221714166727015" />
+<Platform type="Platform" material="" x="1.835" y="-4.6221714166727015" />
+</GameObjects>
+</Level>
