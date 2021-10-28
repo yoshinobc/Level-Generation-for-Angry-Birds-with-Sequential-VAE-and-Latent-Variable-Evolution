@@ -1,5 +1,5 @@
 # Level-Generation-for-Angry-Birds-with-Sequential-VAE-and-Latent-Variable-Evolution
-This is an implementation of "Level Generation for Angry Birds with Sequential VAE and Latent Variable Evolution".
+This is an implementation of "Level Generation for Angry Birds with Sequential VAE and Latent Variable Evolution"(https://arxiv.org/abs/2104.06106).
 
 # Requirement
 ```bash
